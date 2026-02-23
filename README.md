@@ -1,5 +1,5 @@
 # Back-end-developer-capstone-project
-/restaurant/msg/
+/restaurant/message/
 /restaurant/menu/
 /restaurant/menu/<int:pk>/ for example /restaurant/menu/1/
 /restaurant/booking/tables/
